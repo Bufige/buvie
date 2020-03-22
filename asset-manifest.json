@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/buvie/static/js/main.ceadc9fd.chunk.js",
-    "main.js.map": "/buvie/static/js/main.ceadc9fd.chunk.js.map",
+    "main.js": "/buvie/static/js/main.7606ef97.chunk.js",
+    "main.js.map": "/buvie/static/js/main.7606ef97.chunk.js.map",
     "runtime-main.js": "/buvie/static/js/runtime-main.26cf36f7.js",
     "runtime-main.js.map": "/buvie/static/js/runtime-main.26cf36f7.js.map",
-    "static/js/2.0972fc7d.chunk.js": "/buvie/static/js/2.0972fc7d.chunk.js",
-    "static/js/2.0972fc7d.chunk.js.map": "/buvie/static/js/2.0972fc7d.chunk.js.map",
+    "static/js/2.32f4e3fc.chunk.js": "/buvie/static/js/2.32f4e3fc.chunk.js",
+    "static/js/2.32f4e3fc.chunk.js.map": "/buvie/static/js/2.32f4e3fc.chunk.js.map",
     "index.html": "/buvie/index.html",
-    "precache-manifest.13a907503955ba1de668688686519bab.js": "/buvie/precache-manifest.13a907503955ba1de668688686519bab.js",
+    "precache-manifest.2bf5bbdf9a94c9e3b6dcf1b5db532cc8.js": "/buvie/precache-manifest.2bf5bbdf9a94c9e3b6dcf1b5db532cc8.js",
     "service-worker.js": "/buvie/service-worker.js",
-    "static/js/2.0972fc7d.chunk.js.LICENSE.txt": "/buvie/static/js/2.0972fc7d.chunk.js.LICENSE.txt"
+    "static/js/2.32f4e3fc.chunk.js.LICENSE.txt": "/buvie/static/js/2.32f4e3fc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.26cf36f7.js",
-    "static/js/2.0972fc7d.chunk.js",
-    "static/js/main.ceadc9fd.chunk.js"
+    "static/js/2.32f4e3fc.chunk.js",
+    "static/js/main.7606ef97.chunk.js"
   ]
 }
