@@ -24,8 +24,12 @@ const searchMovies = (text, filter, page, setSearchContent) => {
 		}
 		case 4: {
 			return MovieService.getSearch(text, page);
-		}
-	}
+        }
+        default: {
+            break;
+        }
+    }
+    return ;
 };
 
 const Main = (props) => {
